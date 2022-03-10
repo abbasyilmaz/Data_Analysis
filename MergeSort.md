@@ -1,4 +1,4 @@
-# Projects
+
 Insertion Sort Project
 
 Stages of the series by type of Mort Serge
