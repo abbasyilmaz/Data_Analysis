@@ -6,13 +6,22 @@ Insertion Sort Project
 Root=7 is selected.
 
        7
+       
       / \
+      
     5     8 
+    
    /   \    \
+   
   1     6    9
+  
  /     /
+ 
 0     3
+
      /  \
+     
     2     4 
+    
     
    
