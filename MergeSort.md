@@ -1,6 +1,3 @@
-
-Insertion Sort Project
-
 Stages of the series by type of Mort Serge
 [16,21,11,8,12,22]
 
